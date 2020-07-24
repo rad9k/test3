@@ -88,7 +88,7 @@ The source code repository is [here](https://github.com/golemfactory/yagna)
 
 ## Components
 
-[![](.gitbook/assets/0.png)](https://www.draw.io/?page-id=5f0bae14-7c28-e335-631c-24af17079c00&scale=auto#G1cJs8qq6D20Ub3vbYl_LZX9c5oEuONnMj)
+[![](.gitbook/assets/0.png)](https://www.draw.io/?page-id=5f0bae14-7c28-e335-631c-24af17079c00&scale=10000#G1cJs8qq6D20Ub3vbYl_LZX9c5oEuONnMj)
 
 ### Yagna Daemon
 
