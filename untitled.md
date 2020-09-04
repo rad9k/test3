@@ -4,69 +4,69 @@ Technical Concept
 
 Yagna
 
-[**Overview**]() **2**
+[**Overview**](untitled.md) **2**
 
-[**Software Development Plan**]() **2**
+[**Software Development Plan**](untitled.md) **2**
 
-[**Components**]() **3**
+[**Components**](untitled.md) **3**
 
-[Yagna Daemon]() 3
+[Yagna Daemon](untitled.md) 3
 
-[Yagna Service Bus API Implementation]() 4
+[Yagna Service Bus API Implementation](untitled.md) 4
 
-[YagnaNet Implementations]() 4
+[YagnaNet Implementations](untitled.md) 4
 
-[GolemNet Mk1 - Centralized Hub]() 4
+[GolemNet Mk1 - Centralized Hub](untitled.md) 4
 
-[YagnaNet Mk2 - Yagna Implementation]() 4
+[YagnaNet Mk2 - Yagna Implementation](untitled.md) 4
 
-[Market API Implementations]() 4
+[Market API Implementations](untitled.md) 4
 
-[Market API Mk0 - Centralized Market Exchange]() 4
+[Market API Mk0 - Centralized Market Exchange](untitled.md) 4
 
-[Market API Mk1 - Simplistic Distributed Market Implementation]() 5
+[Market API Mk1 - Simplistic Distributed Market Implementation](untitled.md) 5
 
-[Market API Mk2 - Distributed Market Implementation]() 5
+[Market API Mk2 - Distributed Market Implementation](untitled.md) 5
 
-[Activity API Implementations]() 5
+[Activity API Implementations](untitled.md) 5
 
-[Activity API - “Straight-thru” Implementation]() 5
+[Activity API - “Straight-thru” Implementation](untitled.md) 5
 
-[ExeUnit Implementations]() 5
+[ExeUnit Implementations](untitled.md) 5
 
-[Dummy ExeUnit]() 6
+[Dummy ExeUnit](untitled.md) 6
 
-[WASM ExeUnit]() 6
+[WASM ExeUnit](untitled.md) 6
 
-[Payment API Implementations]() 6
+[Payment API Implementations](untitled.md) 6
 
-[Payment API - Dummy Implementation]() 6
+[Payment API - Dummy Implementation](untitled.md) 6
 
-[Payment API - Simple Ethereum Implementation]() 6
+[Payment API - Simple Ethereum Implementation](untitled.md) 6
 
-[Identity API Implementations]() 6
+[Identity API Implementations](untitled.md) 6
 
-[Yagna CLI]() 6
+[Yagna CLI](untitled.md) 6
 
-[Yagna Provider Agent]() 7
+[Yagna Provider Agent](untitled.md) 7
 
-[Requestor Applications]() 7
+[Requestor Applications](untitled.md) 7
 
-[Responsibility]() 7
+[Responsibility](untitled.md) 7
 
-[Requestor Agent App]() 8
+[Requestor Agent App](untitled.md) 8
 
-[Simple General UI App]() 8
+[Simple General UI App](untitled.md) 8
 
-[Golem Unlimited Integration]() 8
+[Golem Unlimited Integration](untitled.md) 8
 
-[Golem Unlimited Provider Agent]() 8
+[Golem Unlimited Provider Agent](untitled.md) 8
 
-[Golem Unlimited Requestor Client]() 8
+[Golem Unlimited Requestor Client](untitled.md) 8
 
-[Yagna A]()
+[Yagna A](untitled.md)
 
-[Task Project Plan]() 13
+[Task Project Plan](untitled.md) 13
 
 ## Overview
 
